@@ -1,0 +1,18 @@
+{
+	"id": "nodebb-plugin-mega-knights-groups-managment",
+	"name": "This plugin is NOT production ready",
+	"library": "./library.js",
+	"scripts": [
+		"client/js/init.js"
+	],
+	"less": ["client/less/styles.less"],
+	"templates": "src/templates-nbb",
+	"staticDirs": {
+		"js": "client/js",
+		"img": "client/img"
+	},
+	"hooks": [{
+		"hook": "static:app.load",
+		"method": "init"
+	}]
+}
