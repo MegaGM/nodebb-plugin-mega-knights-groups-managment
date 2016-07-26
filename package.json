@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-mega-knights-groups-managment",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This plugin is NOT production ready",
   "nbbpm": {
     "compatibility": "^1.0.0"
