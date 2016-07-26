@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MegaGM/nodebb-plugin-mega-knights-groups-managment/issues"
   },
-  "homepage": "https://github.com/MegaGM/nodebb-plugin-mega-knights-groups-managment#readme"
+  "homepage": "https://github.com/MegaGM/nodebb-plugin-mega-knights-groups-managment#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  }
 }
